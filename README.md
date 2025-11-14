@@ -12,8 +12,8 @@
 
 
 <a href="https://github-readme-stats.vercel.app/api?username=Albusgive&show_icons=true&title_color=E6E6FA&icon_color=F5DEB3&border_color=00FFFF&text_color=FFF8DC&bg_color=DEG,FF7F50,DB7093,BA55D3">
-  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api?username=Albusgive" />
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=Albusgive" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albusgive&layout=pie&card_width=320" />
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albusgive&layout=donut" />
 </a>

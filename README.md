@@ -35,15 +35,11 @@
   ![CAD](https://img.shields.io/badge/CAD-333333?logo=autodesk&logoColor=000000)
   ![3D Print](https://img.shields.io/badge/3D_Print-333333?logo=3dprint&logoColor=FF6600)
 
-![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fsimpleicons.p2hp.com%2Ficons%2Fpython.svg)
+
+[<img align="absmiddle" src="https://github-readme-streak-stats.herokuapp.com/?user=Albusgive"/>](https://github.com/Albusgive/)
+
+[<img align="absmiddle" src="https://github-profile-trophy.vercel.app/?username=Albusgive&column=-1&rank=SSS,SS,S,AAA,AA,A"/>](https://github.com/Albusgive/)
 
 
-<a href="https://github.com/Albusgive/">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Albusgive" />
-</a>
 
-
-<a href="https://github.com/Albusgive/">
-  <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=Albusgive&column=-1&rank=SSS,SS,S,AAA,AA,A" />
-</a>
 

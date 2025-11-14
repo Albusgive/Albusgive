@@ -38,9 +38,12 @@
 ![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fsimpleicons.p2hp.com%2Ficons%2Fpython.svg)
 
 
-[<img align="absmiddle" src="https://github-readme-streak-stats.herokuapp.com/?user=Albusgive"/>](https://github.com/Albusgive/)
+<a href="https://github.com/Albusgive/">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Albusgive" />
+</a>
 
-[<img align="absmiddle" src="https://github-profile-trophy.vercel.app/?username=Albusgive&column=-1&rank=SSS,SS,S,AAA,AA,A"/>](https://github.com/Albusgive/)
 
-
+<a href="https://github.com/Albusgive/">
+  <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=Albusgive&column=-1&rank=SSS,SS,S,AAA,AA,A" />
+</a>
 

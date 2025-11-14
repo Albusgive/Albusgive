@@ -20,8 +20,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albusgive&layout=donut&text_color=c0c0c0&bg_color=DEG,9932cc,4169e1,40e0d0)](https://github.com/anuraghazra/github-readme-stats)
 
-You can find me on [[![Bilibili][1]][2]  
-[1]:https://www.bilibili.com/favicon.ico  
-[2]:https://space.bilibili.com/87193773?spm_id_from=333.1007.0.0  
-
-[![Bilibili](https://www.bilibili.com/favicon.ico)](https://space.bilibili.com/87193773?spm_id_from=333.1007.0.0)
+You can find me on [![Bilibili](https://www.bilibili.com/favicon.ico)](https://space.bilibili.com/87193773?spm_id_from=333.1007.0.0) .

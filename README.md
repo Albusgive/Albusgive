@@ -74,6 +74,10 @@
     </a>
 </p>
 
+<a href="https://github.com/Albusgive/">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Albusgive" />
+</a>
+
 [<img align="absmiddle" src="https://github-readme-streak-stats.herokuapp.com/?user=Albusgive"/>](https://github.com/Albusgive/)
 
 [<img align="absmiddle" src="https://github-profile-trophy.vercel.app/?username=Albusgive&column=-1&rank=SSS,SS,S,AAA,AA,A"/>](https://github.com/Albusgive/)

@@ -15,5 +15,5 @@
   <img height=350 align="center" src="https://github-readme-stats.vercel.app/api?username=Albusgive" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albusgive&layout=pie" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albusgive&layout=pie&card_width=320" />
 </a>

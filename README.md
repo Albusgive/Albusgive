@@ -40,7 +40,7 @@
         <img src="https://img.shields.io/badge/C%2FC%2B%2B-333333?logo=cplusplus&logoColor=00599C" alt="C++">
     </a>
     <a href="https://docs.ros.org/en/rolling/" target="_blank">
-        <img src="https://img.shields.io/badge/ROS2-333333?logo=ros&logoColor=22314E" alt="ROS2">
+        <img src="https://img.shields.io/badge/ROS2-333333?logo=ros&logoColor=F8F8FF" alt="ROS2">
     </a>
     <a href="https://www.qt.io/" target="_blank">
         <img src="https://img.shields.io/badge/Qt-333333?logo=qt&logoColor=41CD52" alt="Qt">

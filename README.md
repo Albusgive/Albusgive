@@ -7,7 +7,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Albusgive&repo=mujoco_learning)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albusgive&layout=donut&text_color=c0c0c0&bg_color=DEG,9932cc,4169e1,40e0d0)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albusgive&layout=compact)
 
 
 

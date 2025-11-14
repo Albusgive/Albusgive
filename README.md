@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Albusgive&show_icons=true&title_color=fffff0&icon_color=ff7f50&border_color=1e90ff&text_color=c0c0c0&bg_color=DEG,8b008b,483d8b,4169e1,40e0d0)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Albusgive&repo=mujoco_learning)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albusgive&layout=donut&text_color=c0c0c0&bg_color=DEG,9932cc,4169e1,40e0d0)](https://github.com/anuraghazra/github-readme-stats)

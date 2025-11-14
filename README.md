@@ -52,7 +52,7 @@
         <img src="https://img.shields.io/badge/Git-333333?logo=git&logoColor=F05032" alt="Git">
     </a>
     <a href="https://www.markdownguide.org/" target="_blank">
-        <img src="https://img.shields.io/badge/Markdown-333333?logo=markdown&logoColor=000000" alt="Markdown">
+        <img src="https://img.shields.io/badge/Markdown-333333?logo=markdown&logoColor=F8F8FF" alt="Markdown">
     </a>
     <a href="https://code.visualstudio.com/" target="_blank">
         <img src="https://img.shields.io/badge/VSCode-333333?logo=visualstudiocode&logoColor=007ACC" alt="VS Code">
@@ -70,7 +70,7 @@
         <img src="https://img.shields.io/badge/3D_Print-333333?logo=3dprint&logoColor=FF6600" alt="3D Print">
     </a>
      <a href="https://store.steampowered.com/" target="_blank">
-        <img src="https://img.shields.io/badge/steam-333333?logo=steam&logoColor=000000" alt="3D Print">
+        <img src="https://img.shields.io/badge/steam-333333?logo=steam&logoColor=4169E1" alt="3D Print">
     </a>
 </p>
 

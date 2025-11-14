@@ -74,7 +74,7 @@
     </a>
 </p>
 
-<a align = "center">
+<p align = "center">
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Albusgive" />
   <img width="50%" src="https://github-profile-trophy.vercel.app/?username=Albusgive&column=-1&rank=SSS,SS,S,AAA,AA,A" />
-</a>
+</p>

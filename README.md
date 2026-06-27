@@ -6,7 +6,8 @@
 
 🎓 NCHU(3D Print)  
 🛠 Robot locomotion,Mechanical Design,Simulator,RL  
-📺 Social media on [![Bilibili](https://www.bilibili.com/favicon.ico)](https://space.bilibili.com/87193773?spm_id_from=333.1007.0.0)
+📺 Social media on [![Bilibili](https://www.bilibili.com/favicon.ico)](https://space.bilibili.com/87193773?spm_id_from=333.1007.0.0)    
+[![GitHub Roast 评分徽章](https://githubroast.icu/api/badge/Albusgive)](https://githubroast.icu/u/Albusgive)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -15,6 +16,8 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albusgive&layout=donut&theme=tokyonight&bg_color=DEG,FFA500,F0E68C,3CB371&text_color=8B008B" />
 </a>
+
+[![GitHub Roast](https://githubroast.icu/api/card/Albusgive)](https://githubroast.icu/u/Albusgive)      
 
 </p>
 <p align="center">

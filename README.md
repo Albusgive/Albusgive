@@ -12,7 +12,7 @@
 
 🎓 NCHU (3D Printing / Mechanical Engineering)  
 🤖 Focus: Robot locomotion · Simulation · Reinforcement Learning  
-🧪 Interest: Physics-based world modeling · Embodied AI systems  
+🧬 Interest: Embodied AI · Physics-based world modeling · Sim2Real systems  
 
 📺 Social:  
 [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=white)](https://space.bilibili.com/87193773)
@@ -37,47 +37,63 @@
 
 ---
 
-## 🚀 Research / Engineering Focus
+## 🚀 Research Focus
 
-- 🦾 Whole-body robot locomotion
+- 🦾 Whole-body robot locomotion control
 - 🌍 Physics-based simulation (MuJoCo / Isaac Lab)
 - 🧠 Reinforcement learning for control policies
-- 🔬 Embodied AI + world modeling (RGB-D → physics state)
+- 🔬 RGB-D → scene reconstruction → physics state inference
+- 🤖 Embodied AI systems for interaction-aware environments
 
 ---
 
-## 🧩 Projects (Work in Progress)
+## 🧩 Projects
 
 - Robot locomotion pipeline (sim → real transfer)
 - Flow-based motion / trajectory generation
-- Scene reconstruction for interaction-ready environments
+- Scene reconstruction for interactive physics environments
+- Dynamic world modeling for robot interaction tasks
 
 ---
 
-## 🛠 Tech Stack (Grouped)
+## 🛠 Technology Stack
 
-### Simulation / Robotics
-![MuJoCo](https://img.shields.io/badge/MuJoCo-black?logo=github)
-![Isaac Lab](https://img.shields.io/badge/Isaac_Lab-333?logo=nvidia)
-![ROS2](https://img.shields.io/badge/ROS2-blue?logo=ros)
+### 🤖 Robotics / Simulation Core
+<p align="center">
+    <img src="https://img.shields.io/badge/Isaac_Lab-333333?logo=nvidia&logoColor=76B900">
+    <img src="https://img.shields.io/badge/MuJoCo-333333?logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/Genesis-333333?logo=git&logoColor=F05032">
+</p>
 
-### AI / ML
-![Python](https://img.shields.io/badge/Python-black?logo=python)
-![RL](https://img.shields.io/badge/Reinforcement_Learning-black?logo=openai)
+### 🧠 AI / Learning
+<p align="center">
+    <img src="https://img.shields.io/badge/Reinforcement_Learning-333333?logo=openai">
+    <img src="https://img.shields.io/badge/Python-333333?logo=python">
+    <img src="https://img.shields.io/badge/C%2FC%2B%2B-333333?logo=cplusplus">
+</p>
 
-### Engineering
-![C++](https://img.shields.io/badge/C++-black?logo=cplusplus)
-![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
-![Git](https://img.shields.io/badge/Git-black?logo=git)
+### ⚙️ Systems / Robotics Stack
+<p align="center">
+    <img src="https://img.shields.io/badge/ROS2-333333?logo=ros">
+    <img src="https://img.shields.io/badge/Linux-333333?logo=linux">
+    <img src="https://img.shields.io/badge/Git-333333?logo=git">
+</p>
 
-### Design / Tools
-![SolidWorks](https://img.shields.io/badge/SolidWorks-red)
-![Qt](https://img.shields.io/badge/Qt-green)
-![VSCode](https://img.shields.io/badge/VSCode-blue)
+### 🧩 Design / Engineering Tools
+<p align="center">
+    <img src="https://img.shields.io/badge/Qt-333333?logo=qt">
+    <img src="https://img.shields.io/badge/Qt_Creator-333333?logo=qt">
+    <img src="https://img.shields.io/badge/SolidWorks-333333?logo=solidworks">
+    <img src="https://img.shields.io/badge/CAD-333333?logo=autodesk">
+    <img src="https://img.shields.io/badge/3D_Print-333333?logo=3dprint">
+    <img src="https://img.shields.io/badge/Steam-333333?logo=steam">
+    <img src="img.shields.io/badge/VSCode-333333?logo=visualstudiocode">
+    <img src="https://img.shields.io/badge/Markdown-333333?logo=markdown">
+</p>
 
 ---
 
-## 🧬 Personality Layer
+## 🧠 Evaluation
 
 <div align="center">
 
@@ -91,6 +107,6 @@
 
 <div align="center">
 
-⚙️ “Simulation is reality, compressed.”
+⚙️ “Simulation is not imitation — it is compressed reality.”
 
 </div>

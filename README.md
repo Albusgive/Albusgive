@@ -10,13 +10,19 @@
 🛠 Robot locomotion,Mechanical Design,Simulator,RL  
 📺 Social media on [![Bilibili](https://www.bilibili.com/favicon.ico)](https://space.bilibili.com/87193773?spm_id_from=333.1007.0.0)    
 
+<div style="display: flex; justify-content: center; gap: 16px;">
 
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200"
+         src="https://github-readme-stats.vercel.app/api?username=Albusgive&rank_icon=github&show_icons=true&title_color=E6E6FA&icon_color=F5DEB3&border_color=00FFFF&text_color=FFF8DC&bg_color=DEG,FF7F50,DB7093,BA55D3" />
+  </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Albusgive&rank_icon=github&show_icons=true&title_color=E6E6FA&icon_color=F5DEB3&border_color=00FFFF&text_color=FFF8DC&bg_color=DEG,FF7F50,DB7093,BA55D3" />
-</a>
+  <a href="https://githubroast.icu/u/Albusgive">
+    <img height="200"
+         src="https://githubroast.icu/api/card/Albusgive" />
+  </a>
 
-<a href="https://githubroast.icu/u/Albusgive"><img src="https://githubroast.icu/api/card/Albusgive" alt="GitHub Roast" width="600" /></a>         
+</div>    
 
 </p>
 <p align="center">

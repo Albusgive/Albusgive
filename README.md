@@ -68,6 +68,7 @@
   <img src="https://img.shields.io/badge/3D_Print-333333?logo=3dprint" />
   <img src="https://img.shields.io/badge/VSCode-333333?logo=visual-studio-code" />
   <img src="https://img.shields.io/badge/Markdown-333333?logo=markdown" />
+  <img src="https://img.shields.io/badge/Steam-333333?logo=steam" />
 </p>
 
 ---
@@ -75,11 +76,8 @@
 # 🧠 EVALUATION SYSTEM
 
 <div align="center">
-
 [![GitHub Roast 评分徽章](https://githubroast.icu/api/badge/Albusgive)](https://githubroast.icu/u/Albusgive)
-
 <br><br>
-
 <a href="https://githubroast.icu/u/Albusgive">
   <img src="https://githubroast.icu/api/card/Albusgive" width="600" />
 </a>

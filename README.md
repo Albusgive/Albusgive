@@ -25,30 +25,20 @@
 
 ### Core Performance Metrics
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=Albusgive&show_icons=true&rank_icon=github&bg_color=FFF4E6&title_color=7C2D12&text_color=4A2C17&icon_color=EA580C&border_color=FED7AA"/>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albusgive&layout=compact&bg_color=FFF4E6&title_color=7C2C12&text_color=4A2C17&border_color=FED7AA"/>
-
-</div>
-
-<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <img height="170" src="https://github-readme-stats.vercel.app/api?username=Albusgive&show_icons=true&rank_icon=github&bg_color=FFF4E6&title_color=7C2D12&text_color=4A2C17&icon_color=EA580C&border_color=FED7AA"/>
+    </td>
+    <td align="center">
+      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albusgive&layout=compact&bg_color=FFF4E6&title_color=7C2D12&text_color=4A2C17&border_color=FED7AA"/>
+    </td>
+  </tr>
+</table>
 
 ### Activity Stream
 
-<img src="https://github-readme-streak-stats.herokuapp.com/
-?user=Albusgive
-&background=FFF4E6
-&border=FED7AA
-&stroke=FB923C
-&ring=F97316
-&fire=EA580C
-&currStreakNum=7C2D12
-&sideNums=7C2D12
-&currStreakLabel=4A2C17
-&sideLabels=4A2C17
-&dates=A16207"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Albusgive&background=FFF4E6&border=FED7AA&stroke=FB923C&ring=F97316&fire=EA580C&currStreakNum=7C2D12&sideNums=7C2D12&currStreakLabel=4A2C17&sideLabels=4A2C17&dates=A16207"/>
 
 </div>
 

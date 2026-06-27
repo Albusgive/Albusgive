@@ -17,7 +17,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albusgive&layout=donut&theme=tokyonight&bg_color=DEG,FFA500,F0E68C,3CB371&text_color=8B008B" />
 </a>
 
-[![GitHub Roast](https://githubroast.icu/api/card/Albusgive)](https://githubroast.icu/u/Albusgive)      
+<a href="https://githubroast.icu/u/Albusgive"><img src="https://githubroast.icu/api/card/Albusgive" alt="GitHub Roast" width="600" /></a>         
 
 </p>
 <p align="center">

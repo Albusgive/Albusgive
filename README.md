@@ -15,8 +15,8 @@
 🦾 Domain: Robotics · Locomotion · Simulation · RL  
 🧠 System Type: Embodied AI Research Agent  
 📺 Social media:  
-🍠 Xiaohongshu: https://www.xiaohongshu.com/user/profile/6680f53f0000000003031a52  
-[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=white)](https://space.bilibili.com/87193773)
+[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=white)](https://space.bilibili.com/87193773)  
+[![Xiaohongshu](https://img.shields.io/badge/Xiaohongshu-FF2442?style=flat&logo=data:image/svg+xml;base64,PHN2Zy8+)](https://www.xiaohongshu.com/user/profile/6680f53f0000000003031a52)
 
 
 ---

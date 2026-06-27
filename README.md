@@ -87,7 +87,7 @@
     <img src="https://img.shields.io/badge/CAD-333333?logo=autodesk">
     <img src="https://img.shields.io/badge/3D_Print-333333?logo=3dprint">
     <img src="https://img.shields.io/badge/Steam-333333?logo=steam">
-    <img src="img.shields.io/badge/VSCode-333333?logo=visualstudiocode">
+    <img src="https://img.shields.io/badge/VSCode-333333?style=for-the-badge&logo=visual-studio-code&logoColor=white">
     <img src="https://img.shields.io/badge/Markdown-333333?logo=markdown">
 </p>
 

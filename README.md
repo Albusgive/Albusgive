@@ -15,7 +15,7 @@
 🎓 Node: NCHU / Mechanical Engineering  
 🦾 Domain: Robotics · Locomotion · Simulation · RL  
 🧠 System Type: Embodied AI Research Agent  
-📺 External Link: https://space.bilibili.com/87193773  
+📺 Social media on Bilibili:  [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=white)](https://space.bilibili.com/87193773)
 
 ---
 

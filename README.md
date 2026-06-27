@@ -15,9 +15,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Albusgive&rank_icon=github&show_icons=true&title_color=E6E6FA&icon_color=F5DEB3&border_color=00FFFF&text_color=FFF8DC&bg_color=DEG,FF7F50,DB7093,BA55D3" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albusgive&layout=donut&theme=tokyonight&bg_color=DEG,FFA500,F0E68C,3CB371&text_color=8B008B" />
-</a>
 
 <a href="https://githubroast.icu/u/Albusgive"><img src="https://githubroast.icu/api/card/Albusgive" alt="GitHub Roast" width="600" /></a>         
 

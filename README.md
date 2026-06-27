@@ -16,8 +16,7 @@
 🦾 Domain: Robotics · Locomotion · Simulation · RL  
 🧠 System Type: Embodied AI Research Agent  
 
-📺 Social media on Bilibili:  
-[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=white)](https://space.bilibili.com/87193773)
+📺 Social media:[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=white)](https://space.bilibili.com/87193773)
 
 ---
 

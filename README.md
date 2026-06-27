@@ -3,11 +3,12 @@
 <p align="center">
 <h2 align="center">👨‍🔧 About Me <img align="center" src="https://i0.hdslb.com/bfs/new_dyn/d2dcf1040a14252dfb881bd70b93ce6e959560.gif"></h2>
 </p>
+[![GitHub Roast 评分徽章](https://githubroast.icu/api/badge/Albusgive)](https://githubroast.icu/u/Albusgive)    
 
 🎓 NCHU(3D Print)  
 🛠 Robot locomotion,Mechanical Design,Simulator,RL  
 📺 Social media on [![Bilibili](https://www.bilibili.com/favicon.ico)](https://space.bilibili.com/87193773?spm_id_from=333.1007.0.0)    
-[![GitHub Roast 评分徽章](https://githubroast.icu/api/badge/Albusgive)](https://githubroast.icu/u/Albusgive)
+
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

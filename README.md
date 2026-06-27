@@ -10,12 +10,14 @@
 
 # 📡 SYSTEM STATUS
 
-## 🧾 Identity Module
+## 📌 Identity Module
 
 🎓 Node: NCHU / Mechanical Engineering  
 🦾 Domain: Robotics · Locomotion · Simulation · RL  
 🧠 System Type: Embodied AI Research Agent  
-📺 Social media on Bilibili:  [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=white)](https://space.bilibili.com/87193773)
+
+📺 Social media on Bilibili:  
+[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=white)](https://space.bilibili.com/87193773)
 
 ---
 
@@ -28,71 +30,58 @@
 <table>
   <tr>
     <td align="center">
-      <img height="170" src="https://github-readme-stats.vercel.app/api?username=Albusgive&show_icons=true&rank_icon=github&bg_color=FFF4E6&title_color=7C2D12&text_color=4A2C17&icon_color=EA580C&border_color=FED7AA"/>
+      <img height="170"
+      src="https://github-readme-stats.vercel.app/api?username=Albusgive&show_icons=true&rank_icon=github&bg_color=EAF2FF&title_color=1E3A8A&text_color=1E293B&icon_color=2563EB&border_color=BFD7FF"/>
     </td>
+
     <td align="center">
-      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albusgive&layout=compact&bg_color=FFF4E6&title_color=7C2D12&text_color=4A2C17&border_color=FED7AA"/>
+      <img height="170"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albusgive&layout=compact&bg_color=EAF2FF&title_color=1E3A8A&text_color=1E293B&border_color=BFD7FF"/>
     </td>
   </tr>
 </table>
 
 ### Activity Stream
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Albusgive&background=FFF4E6&border=FED7AA&stroke=FB923C&ring=F97316&fire=EA580C&currStreakNum=7C2D12&sideNums=7C2D12&currStreakLabel=4A2C17&sideLabels=4A2C17&dates=A16207"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Albusgive&background=EAF2FF&border=BFD7FF&stroke=3B82F6&ring=2563EB&fire=1D4ED8&currStreakNum=1E3A8A&sideNums=1E3A8A&currStreakLabel=1E3A8A&sideLabels=334155&dates=475569"/>
 
 </div>
 
 ---
 
-# 🧠 RESEARCH MODULES
+# 🚀 RESEARCH MODULES
 
-### 🦾 Locomotion Control Unit
-- Whole-body robot control
-- Sim-to-real transfer pipelines
-
-### 🌍 Physics Simulation Engine
-- MuJoCo / Isaac Lab environments
-- Contact-rich dynamics modeling
-
-### 🤖 Embodied Intelligence Core
-- RGB-D → scene reconstruction
-- Physics state inference
-
-### ⚙️ Learning System
-- Reinforcement learning policies
-- Flow-based motion generation
+- 🦾 Whole-body robot locomotion control  
+- 🌍 Physics-based simulation (MuJoCo / Isaac Lab)  
+- 🧠 Reinforcement learning for control policies  
+- 🔬 RGB-D → scene reconstruction → physics inference  
+- 🤖 Embodied AI interaction systems  
 
 ---
 
-# 🧩 CAPABILITY REGISTRY
+# 🧩 技术栈
 
-### Robotics / Simulation
+### 🤖 Robotics / Simulation
 <p align="center">
 <img src="https://img.shields.io/badge/Isaac_Lab-333333?logo=nvidia&logoColor=76B900">
 <img src="https://img.shields.io/badge/MuJoCo-333333?logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/ROS2-333333?logo=ros">
 </p>
 
----
-
-### AI / Control Systems
+### 🧠 AI / Learning
 <p align="center">
 <img src="https://img.shields.io/badge/Reinforcement_Learning-333333?logo=openai">
 <img src="https://img.shields.io/badge/Python-333333?logo=python">
 <img src="https://img.shields.io/badge/C%2FC%2B%2B-333333?logo=cplusplus">
 </p>
 
----
-
-### System Infrastructure
+### ⚙️ Systems
 <p align="center">
 <img src="https://img.shields.io/badge/Linux-333333?logo=linux">
 <img src="https://img.shields.io/badge/Git-333333?logo=git">
 </p>
 
----
-
-### Engineering Tools
+### 🧩 Engineering Tools
 <p align="center">
 <img src="https://img.shields.io/badge/SolidWorks-333333?logo=solidworks">
 <img src="https://img.shields.io/badge/Qt-333333?logo=qt">
@@ -103,7 +92,7 @@
 
 ---
 
-# 🧠 EXTERNAL EVALUATION SYSTEM
+# 🧠 EVALUATION SYSTEM
 
 <div align="center">
 
